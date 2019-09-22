@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ground.raw</file>
+        <file>terrain.raw</file>
+        <file>torus.raw</file>
+    </qresource>
+</RCC>

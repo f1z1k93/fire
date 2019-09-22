@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ground.jpg</file>
+        <file>terrain.jpg</file>
+        <file>torus.jpg</file>
+        <file>match.png</file>
+    </qresource>
+</RCC>

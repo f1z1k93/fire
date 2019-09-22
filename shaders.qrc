@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ground.frag</file>
+        <file>ground.vert</file>
+        <file>particle.frag</file>
+        <file>particle.vert</file>
+    </qresource>
+</RCC>
